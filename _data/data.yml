@@ -21,6 +21,8 @@ sidebar:
     #linkedin:
     #xing:
     github: https://github.com/7orttu
+    syntymaaika: 16.5.2006
+    syntymapaikka: Jyväskylä
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
@@ -31,7 +33,7 @@ sidebar:
     #pdf:
 
     languages:
-      title: Languages
+      title: Kielet
       info:
         - idiom: Suomi
           level: Äidinkieli
@@ -51,22 +53,23 @@ sidebar:
 #        - item: Climbing
 #          link:
           
-#career-profile:
-#    title: Career Profile
-#    summary: |
-#      Career here...
-      
+career-profile:
+    title: 
+    summary: |
+      Hei! Nimeni on Niklas, opiskelen sovellusohjelmointia Gradialla ja olen innostunut sovellusten kehityksestä. Minulla on
+      intohimo oppia uutta, ratkoa ongelmia ja luoda ratkaisuja. Olen opiskelemassa toista vuotta sovellusohjelmointia.
+   
 education:
-    title: Education
+    title: Koulutus
     info:
-      - degree: Ohjelmistokehittäjä | 
-        university: Gradia Viitaniemi
-        time: 2022 - 2025
+      - degree: Ohjelmistokehittäjä | Tieto- ja viestintätekniikan perustutkinto
+        university: Ammattiopisto Gradia, Viitaniemen kampus
+        time: 2022 - nykyhetki(valmistuminen 2025)
         details: |
-          O Details...
+          
 
 experiences:
-    title: Experiences
+    title: Historia
     info:
       - role: Jyväskylän Pääkirjasto | Datataiturit
         time: 01.12.2022 - 24.02.2023
@@ -88,14 +91,14 @@ experiences:
 #          details: |
 #            D
             
-#projects:
-#    title: Projects
-#    intro: >
-#      D
-#    assignments:
-#      - title:
-#        link:
-#        tagline:
+projects:
+    title: Projektit
+    intro: >
+      
+    assignments:
+      - title: Miinaharava / Minesweeper
+        link: https://github.com/7orttu/minesweeper
+        tagline:
 
 #oss:
 #    title: OSS Contributions
@@ -129,7 +132,7 @@ skills:
       - name: HTML5 & CSS
         level: 50%
 
-      - name: JavaScript & jQuery
+      - name: JavaScript
         level: 60%
 
       - name: SQL & PHP
