@@ -76,7 +76,7 @@ experiences:
         company: 
         details: | 
           Työskentelin Jyväskylän pääkirjastolla "datataiturina", eli auttamassa asiakkaita kaikenlaisissa
-          laite ongelmissa.
+          laite ongelmissa tai muuten vain laitteiden käytössä.
 
 #certifications:
 #      title: Certifications
@@ -93,12 +93,12 @@ experiences:
             
 projects:
     title: Projektit
-    intro: >
+    intro:
       
     assignments:
-      - title: Miinaharava / Minesweeper
+      - title: Minesweeper
         link: https://github.com/7orttu/minesweeper
-        tagline:
+        tagline: C# Tehty Miinaharava projekti.
 
 #oss:
 #    title: OSS Contributions
@@ -127,7 +127,7 @@ skills:
         level: 75%
         
       - name: Python
-        level: 50%
+        level: 60%
 
       - name: HTML5 & CSS
         level: 50%
@@ -136,10 +136,10 @@ skills:
         level: 60%
 
       - name: SQL & PHP
-        level: 35%
+        level: 30%
 
       - name: Wordpress
-        level: 50%
+        level: 45%
       
 
 #footer: >
