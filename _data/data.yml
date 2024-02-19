@@ -8,7 +8,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Niklas Hillman | 16.05.2006 / Jyväskylä
+    name: Niklas Hillman
     tagline: Opiskelija
     avatar: 
 
@@ -16,7 +16,7 @@ sidebar:
     email: hillmanniklas@gmail.com
     phone: +358 40 0185958
     #timezone:
-    citizenship: Suomalainen
+    citizenship: Suomalainen | 16.05.2006 / Jyväskylä
     #website: #do not add http://
     #linkedin:
     #xing:
