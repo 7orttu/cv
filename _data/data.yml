@@ -103,6 +103,9 @@ projects:
       - title: Minesweeper
         link: https://github.com/7orttu/minesweeper
         tagline: C# Tehty Miinaharava projekti.
+      - title: Suomen Eläimet
+        link: https://github.com/7orttu/suomen-elaimet
+        tagline: HTML, CSS ja JS ohjelmointikielillä tehty opetuspeli Suomen eläimistä.
 
 #oss:
 #    title: OSS Contributions
