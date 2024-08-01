@@ -55,7 +55,7 @@ career-profile:
     title: Minä
     summary: |
       Hei! Nimeni on Niklas, opiskelen sovellusohjelmointia Gradialla ja olen innostunut sovellusten kehityksestä. Minulla on
-      intohimo oppia uutta, ratkoa ongelmia ja luoda ratkaisuja. Olen opiskelemassa toista vuotta sovellusohjelmointia.
+      intohimo oppia uutta, ratkoa ongelmia ja luoda ratkaisuja. Opiskelen kolmatta vuotta sovellusohjelmointia, mutta olemme käyneet myös web-ohjelmointi kursseja.
    
 education:
     title: Koulutus
@@ -76,7 +76,7 @@ experiences:
           Työskentelin Jyväskylän pääkirjastolla "datataiturina", eli auttamassa asiakkaita kaikenlaisissa
           laite ongelmissa tai muuten vain laitteiden käytössä.
 
-      - role: Mosaiikki ry | Web-ohjelmoija
+      - role: Mosaiikki ry | Web-ohjelmointi
         time: 07.03.2024 - 31.05.2024 
         company: 
         details: | 
@@ -131,12 +131,12 @@ skills:
 
     toolset:
       - name: C#
-        level: 75%
+        level: 70%
         
       - name: Python
-        level: 50%
+        level: 55%
 
-      - name: HTML5 & CSS
+      - name: HTML & CSS
         level: 55%
 
       - name: JavaScript
@@ -146,7 +146,7 @@ skills:
         level: 25%
 
       - name: Wordpress
-        level: 45%
+        level: 40%
       
 
 #footer: >
