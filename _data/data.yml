@@ -54,8 +54,9 @@ sidebar:
 career-profile:
     title: Minä
     summary: |
-      Hei! Nimeni on Niklas, opiskelen sovellusohjelmointia Gradialla ja olen innostunut sovellusten kehityksestä. Minulla on
-      intohimo oppia uutta, ratkoa ongelmia ja luoda ratkaisuja. Olen opiskelemassa toista vuotta sovellusohjelmointia.
+      Hei! Nimeni on Niklas, opiskelen kolmatta vuotta sovellusohjelmointia Gradialla ja olen innostunut sovellusten ja pelien kehityksestä. Minulla on
+      intohimo oppia uutta, ratkoa ongelmia ja luoda ratkaisuja. Minulla on omia ja koulun projekteja mitä olen laittanut github profiiliini ja niitä voi 
+      sieltä voi sieltä käydä katsomassa!
    
 education:
     title: Koulutus
@@ -103,6 +104,11 @@ projects:
       - title: Minesweeper
         link: https://github.com/7orttu/minesweeper
         tagline: C# Tehty Miinaharava projekti.
+
+      - title: Simple Clicker Bot
+        link: https://github.com/7orttu/simple-clicker-bot
+        tagline: A simple color or target image clicker bot using pyautogui Python Library.
+
       - title: Suomen Eläimet
         link: https://github.com/7orttu/suomen-elaimet
         tagline: HTML, CSS ja JS ohjelmointikielillä tehty opetuspeli suomen eläimistä.
