@@ -92,8 +92,7 @@ experiences:
 #         credentialid:
 #          credentialurl:
 #          credentialname:
-#          details: |
-#            D
+#          details:
             
 projects:
     title: Projektit
@@ -139,22 +138,22 @@ skills:
         level: 75%
         
       - name: Python
-        level: 50%
+        level: 60%
 
       - name: HTML & CSS
         level: 55%
 
       - name: JavaScript
-        level: 45%
+        level: 40%
 
       - name: SQL
-        level: 40%
+        level: 50%
 
       - name: PHP
         level: 10%
 
       - name: Wordpress
-        level: 45%
+        level: 50%
       
 
 #footer: >
